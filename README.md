@@ -12,7 +12,7 @@ Skills and Experience
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerYavuz&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-![Snake animation](https://github.com/ProgrammerYavuz/ProgrammerYavuz/blob/output/github-contribution-grid-snake.svg)
+![Snake gif](https://github.com/ProgrammerYavuz/ProgrammerYavuz/blob/output/github-contribution-grid-snake.gif)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ProgrammerYavuz)](https://github.com/ProgrammerYavuz/github-readme-stats)
