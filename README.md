@@ -2,7 +2,7 @@
 ![Design and Development](https://pbs.twimg.com/profile_banners/1321465125866475521/1665221568/1500x500)
 
 
-Skills and Experience
+### Skills and Experience
 * 💻 HTML, CSS, JS, B5
 * ⚛️ React
 
