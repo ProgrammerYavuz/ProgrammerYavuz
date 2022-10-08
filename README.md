@@ -1,6 +1,6 @@
 ### Hi there 👋, Yavuz
 #### Design and Development
-![Design and Development](https://pbs.twimg.com/profile_banners/1321465125866475521/1665221568/600x200)
+![Design and Development](https://pbs.twimg.com/profile_banners/1321465125866475521/1665221568/1500x500)
 
 
 Skills: REACT / JS / HTML / CSS / BOOTSTRAP
