@@ -3,8 +3,8 @@
 
 
 ### Skills and Experience
-* 💻 HTML, CSS, JS, B5
-* ⚛️ React
+* 💻 HTML, CSS, JS, B5, React, PHP, C#, MsSQL and MySQL 
+* 💎Logo and Banner Designer, Video Edits
 
 <div>
     <a href="https://github.com/ProgrammerYavuz">
