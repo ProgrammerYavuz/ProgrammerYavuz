@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer from Türkiye</h3>
 <img align="right" alt="Code" width="400" src="https://matlensilver.com/wp-content/uploads/2021/07/IT-Staffing.gif" >
 
-<h3>🌱 I’m currently learning React and Laravel 😎 </h3>
+<h3>🌱 I’m currently learning React and React Native 😎 </h3>
 
 <h3 align="left">📜 Languages and Tools:</h3>
 <p align="left"> 
