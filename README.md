@@ -49,6 +49,6 @@
 
 <div>
   <a href="https://github.com/ProgrammerYavuz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerYavuz&theme=dracula&layout=compact&langs_count=16" />
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProgrammerYavuz&layout=compact&theme=dracula" />
   </a>
 </div>
