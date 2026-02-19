@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm programmeryavuz</h1>
 <img align="right" alt="Code" width="400" src="https://matlensilver.com/wp-content/uploads/2021/07/IT-Staffing.gif" >
-<h3>🌱 I’m currently learning React and React Native 😎 </h3>
+<h3>Full Stack & Mobile Developer | Building scalable web & mobile apps | 5K+ user production product | E-Commerce & Payment Integrations 😎</h3>
 <h3 align="left">📜 Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
