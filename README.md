@@ -48,6 +48,7 @@
 </p>
 
 <div>
-    <a href="https://github.com/ProgrammerYavuz">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerYavuz&theme-color=dracula&layout=compact&langs_count=16"/>
+  <a href="https://github.com/ProgrammerYavuz">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProgrammerYavuz&theme=dracula&layout=compact&langs_count=16" />
+  </a>
 </div>
