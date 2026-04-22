@@ -6,6 +6,8 @@
 
 <div align="center">
 
+<img align="right" src="https://matlensilver.com/wp-content/uploads/2021/07/IT-Staffing.gif" width="360" />
+
 ### 🚀 Building scalable web &amp; mobile apps &nbsp;|&nbsp; 5K+ user production products &nbsp;|&nbsp; E-Commerce &amp; Payment Integrations 😎
 
 <br/>
