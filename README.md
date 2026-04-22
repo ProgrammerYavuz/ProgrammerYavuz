@@ -70,12 +70,6 @@ const programmeryavuz = {
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ProgrammerYavuz&amp;theme=tokyonight&amp;border=7c3aed&amp;border_radius=12" />
-
-</div>
-
 ---
 
 <div align="center">
