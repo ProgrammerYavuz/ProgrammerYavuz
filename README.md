@@ -60,18 +60,6 @@ const programmeryavuz = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ProgrammerYavuz&amp;layout=compact&amp;theme=tokyonight&amp;border_color=7c3aed&amp;border_radius=12" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ProgrammerYavuz&amp;show_icons=true&amp;theme=tokyonight&amp;border_color=7c3aed&amp;border_radius=12&amp;include_all_commits=true&amp;count_private=true" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=12&amp;height=100&amp;section=footer" width="100%" />
